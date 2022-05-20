@@ -1,0 +1,11 @@
+.Bar{
+    &Container{
+        display: flex;
+        align-items: flex-end;
+    }
+    background-color: orange;
+    width:25px;
+    border:1px solid lightgrey;
+    border-radius: 8px 8px 0 0;
+
+}
